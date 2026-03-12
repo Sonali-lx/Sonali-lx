@@ -17,7 +17,7 @@ Aspiring Software Engineer | B.Tech CSE @ SASTRA University | Passionate about F
 
 - 💰 **Expense Tracker**  
   Simple app to track expenses with add/delete functionality and persistent storage.  
-  🔗 [Live Demo]([https://your-expense-tracker-demo-link](https://sonali-lx.github.io/expense-tracker/)) | [Code](https://github.com/Sonali-lx/expense-tracker)
+  🔗 [Live Demo](https://sonali-lx.github.io/expense-tracker/) | [Code](https://github.com/Sonali-lx/expense-tracker)
 
 - 🛒 **HTML Vibe Purchase Page**  
   Static purchase flow page built with HTML/CSS.  
