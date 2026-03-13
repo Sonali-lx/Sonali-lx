@@ -8,7 +8,7 @@ Aspiring Software Engineer | B.Tech CSE @ SASTRA University | Passionate about F
 
 - 🎵 **MERN Music Player**  
   Full-stack app with authentication, profile management, and secure APIs, deployed in Vercel.  
-  🔗 [Live Demo](https://music-player-sigma-green.vercel.app/) | [Code](https://github.com/Sonali-lx/mern-music-player)
+  🔗 [Live Demo](https://music-player-sigma-green.vercel.app/) | [Code](https://github.com/Sonali-lx/music-player)
 
 - 💰 **Expense Tracker**  
   Simple app to track expenses with add/delete functionality and persistent storage.  
