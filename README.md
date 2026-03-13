@@ -10,11 +10,6 @@ Aspiring Software Engineer | B.Tech CSE @ SASTRA University | Passionate about F
   Full-stack app with authentication, profile management, and secure APIs.  
   🔗 [Live Demo](https://music-player-sigma-green.vercel.app/) | [Code](https://github.com/Sonali-lx/mern-music-player)
 
-- 🖼️ **React Gallery**  
-  Responsive gallery built with React and deployed on Vercel.  
-  <!-- 🔗 [Live Demo](https://react-gallery.vercel.app) |  -->
-  [Code](https://github.com/Sonali-lx/react_gallery)
-
 - 💰 **Expense Tracker**  
   Simple app to track expenses with add/delete functionality and persistent storage.  
   🔗 [Live Demo](https://sonali-lx.github.io/expense-tracker/) | [Code](https://github.com/Sonali-lx/expense-tracker)
@@ -26,6 +21,15 @@ Aspiring Software Engineer | B.Tech CSE @ SASTRA University | Passionate about F
 - 🎯 **Goals Page**  
   Simple static page outlining goals and navigation.  
   🔗 [Live Demo]( https://sonali-lx.github.io/html_vibe_goals_page/) | [Code](https://github.com/Sonali-lx/html_vibe_purchage_page)
+
+- 🖼️ **React Gallery**  
+  Responsive gallery built with React and deployed on Vercel.  
+  <!-- 🔗 [Live Demo](https://react-gallery.vercel.app) |  -->
+  ⚙️ [Code](https://github.com/Sonali-lx/react_gallery)
+
+- ✝️ **Altar**
+  Spiritual platform for belivers can grow in their faith.
+  ⚙️ [Code](https://github.com/Sonali-lx/Altar)
 
 ---
 
