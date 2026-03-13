@@ -43,6 +43,6 @@ Aspiring Software Engineer | B.Tech CSE @ SASTRA University | Passionate about F
 ---
 
 ## 📫 Connect with Me
-- [LinkedIn]([https://www.linkedin.com/in/your-link](https://www.linkedin.com/in/sonali-s-j-8712a6324/?utm_source=share_via&utm_content=profile&utm_medium=member_android))
+- [LinkedIn]([https://www.linkedin.com/in/sonali-s-j-8712a6324/?utm_source=share_via&utm_content=profile&utm_medium=member_android])
 - [GitHub](https://github.com/Sonali-lx)
 - Email: sonalisjs37@gmail.com, 128003246@sastra.ac.in
