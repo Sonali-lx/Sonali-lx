@@ -7,7 +7,7 @@ Aspiring Software Engineer | B.Tech CSE @ SASTRA University | Passionate about F
 ## 🚀 Featured Projects
 
 - 🎵 **MERN Music Player**  
-  Full-stack app with authentication, profile management, and secure APIs.  
+  Full-stack app with authentication, profile management, and secure APIs, deployed in Vercel.  
   🔗 [Live Demo](https://music-player-sigma-green.vercel.app/) | [Code](https://github.com/Sonali-lx/mern-music-player)
 
 - 💰 **Expense Tracker**  
@@ -23,8 +23,7 @@ Aspiring Software Engineer | B.Tech CSE @ SASTRA University | Passionate about F
   🔗 [Live Demo]( https://sonali-lx.github.io/html_vibe_goals_page/) | [Code](https://github.com/Sonali-lx/html_vibe_purchage_page)
 
 - 🖼️ **React Gallery**  
-  Responsive gallery built with React and deployed on Vercel.  
-  <!-- 🔗 [Live Demo](https://react-gallery.vercel.app) |  -->
+  Responsive gallery built with React.  
   ⚙️ [Code](https://github.com/Sonali-lx/react_gallery)
 
 - ✝️ **Altar**
@@ -44,6 +43,6 @@ Aspiring Software Engineer | B.Tech CSE @ SASTRA University | Passionate about F
 ---
 
 ## 📫 Connect with Me
-- [LinkedIn](https://www.linkedin.com/in/your-link)
+- [LinkedIn]([https://www.linkedin.com/in/your-link](https://www.linkedin.com/in/sonali-s-j-8712a6324/?utm_source=share_via&utm_content=profile&utm_medium=member_android))
 - [GitHub](https://github.com/Sonali-lx)
 - Email: sonalisjs37@gmail.com, 128003246@sastra.ac.in
