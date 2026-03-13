@@ -6,7 +6,7 @@ Aspiring Software Engineer | B.Tech CSE @ SASTRA University | Passionate about F
 
 ## 🚀 Featured Projects
 
-- 🎵 **MERN Music Player**  
+- 🎵 **MERN Music Player - Musicart**  
   Full-stack app with authentication, profile management, and secure APIs, deployed in Vercel.  
   🔗 [Live Demo](https://music-player-sigma-green.vercel.app/) | [Code](https://github.com/Sonali-lx/music-player)
 
