@@ -26,8 +26,8 @@ Aspiring Software Engineer | B.Tech CSE @ SASTRA University | Passionate about F
   Responsive gallery built with React.  
   ⚙️ [Code](https://github.com/Sonali-lx/react_gallery)
 
-- ✝️ **Altar**
-  Spiritual platform for belivers can grow in their faith.
+- ✝️ **Altar**  
+  Spiritual platform for belivers can grow in their faith.  
   ⚙️ [Code](https://github.com/Sonali-lx/Altar)
 
 ---
